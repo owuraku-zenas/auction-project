@@ -1,0 +1,1 @@
+Call me to ask for permission first. You can't do whatever you want with my codebase.
