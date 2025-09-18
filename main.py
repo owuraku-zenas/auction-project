@@ -1,4 +1,5 @@
 print('Hello World')
+print('Lets get started')
 class Student:
     def __init__(self,name,age,grade):
         """Initializing a student object"""
